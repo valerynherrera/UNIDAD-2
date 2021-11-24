@@ -1,0 +1,202 @@
+#bordes {
+    background-color: rgba(238, 125, 238, 0.788);
+}
+
+.row {
+    margin-top: 24px;
+    margin-bottom: 20;
+}
+
+.bg-rosa {
+    background-color: rosybrown;
+
+}
+
+.inline-block {
+    display: inline-block;
+    width: 17%;
+    height: 100px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.vertical-middle {
+    vertical-align: center;
+}
+
+.border {
+    border-color: brown;
+    border-width: 4px;
+}
+
+.border-none {
+    border: none;
+}
+
+.border-hidden {
+    border: hidden;
+}
+
+.border-solid {
+    border-style: solid;
+}
+
+.border-dashed {
+    border: dashed;
+}
+
+.border-dotted {
+    border: dotted;
+}
+
+.border-inset {
+    border: inset;
+}
+
+.border-outset{
+    border: outset;
+}
+
+.border-double {
+    border: double;
+}
+
+.border-groove {
+    border: groove;
+}
+
+.border-ridge {
+    border: ridge;
+}
+
+#padding {
+    background-color: rgba(86, 122, 136, 0.747);
+}
+
+.inline-block2 {
+    display: inline-block;
+    height: 250px;
+}
+
+.bg-green {
+    background-color: rgb(10, 122, 66);
+}
+
+.rectangle {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+}
+
+.bg-greeen {
+    background-color: rgb(77, 192, 115);
+}
+
+.p-top {
+    padding-top: 10px;
+}
+    
+.p-right {
+    padding-right: 10px;
+}
+
+.p-bottom {
+    padding-bottom: 10px;
+}
+
+.p-left {
+    padding-left: 10px;
+}
+
+.p1 {
+    padding: 10px;
+}
+
+.p2 {
+    /* arriba-abajo izquierda-derecha */
+    padding: 10px 5px;
+}
+
+.p3 {
+    /* arriba izquierda-derecha abajo*/
+    padding: 15px 10px 5px;
+}
+
+.p4 {
+    /*arriba izquierda-derecha abajo*/
+    padding: 20px 15px 10px 5px;
+}
+
+#margin {
+    background-color: khaki;
+}
+
+.inline-block3 {
+    display: inline-block;
+    height: 280px;
+}
+
+.m-top {
+    margin-top: 10px;
+}
+
+.m-right {
+    margin-right: 10px;
+}
+
+.m-bottom {
+    margin-bottom: 10px;
+}
+
+.m-left {
+    margin-left: 10px;
+}
+
+.m1 {
+    margin: 10px;
+}
+
+.m2 {
+    margin: 10px 5px;
+}
+
+.m3 {
+    margin: 15px 10px 5px;
+}
+
+.m4 {
+    margin: 20px 15px 10px 5px;
+}
+
+#display {
+    background-color: thistle;
+    text-align: center;
+}
+
+.square {
+    background-color: honeydew;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.d-block {
+    display: block;
+}
+
+.d-inline-block {
+    display: inline-block;
+}
+
+.d-inline {
+    display: inline;
+}
+
+.d-none {
+    display: none;
+}
+
+
+    
